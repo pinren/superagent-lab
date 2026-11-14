@@ -13,3 +13,11 @@ hello from superagent
 git clone https://github.com/pinren/superagent-lab.git
 cd superagent-lab
 ```
+
+## 用法示例
+
+在 Issue 里 @ agent 账号并描述需求，例如：
+
+> @renpinagent 给 README 加一句定位。
+
+agent 会在原 Issue 回复，完成后提交 PR；在 PR 里 review、合并即可。
